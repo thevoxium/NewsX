@@ -1,0 +1,595 @@
+1591799604614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekWCxqt"
+*** You are running in headless mode.
+1591799606191	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591799606288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591799606288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591799606288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591799606288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591799609939	Marionette	INFO	Listening on port 35505
+1591799610229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://theprint.in/, line 12483: TypeError: $ is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591799699210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOdhMbM"
+*** You are running in headless mode.
+1591799700006	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591799700106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591799700106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591799700106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591799700107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591799702453	Marionette	INFO	Listening on port 38355
+1591799702526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591799849096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeFfacA"
+*** You are running in headless mode.
+1591799849818	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591799849918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591799849919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591799849919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591799849919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591799852558	Marionette	INFO	Listening on port 40875
+1591799852609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591800013772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0PmPwI"
+*** You are running in headless mode.
+1591800014492	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591800014590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591800014590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591800014590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591800014590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591800017320	Marionette	INFO	Listening on port 37091
+1591800017382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591800243548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled6H59D"
+*** You are running in headless mode.
+1591800244236	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591800244335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591800244335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591800244335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591800244335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591800246828	Marionette	INFO	Listening on port 41675
+1591800246867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591800307650	Marionette	INFO	Stopped listening on port 41675
+[2020-06-10T14:45:07Z ERROR audioipc_server::server] Unexpected message Err(Custom { kind: BrokenPipe, error: "broken pipe" }) during data_callback
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1591800884246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileALwWut"
+*** You are running in headless mode.
+1591800884941	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591800885043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591800885043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591800885043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591800885043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591800887843	Marionette	INFO	Listening on port 41255
+1591800887859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591800944201	Marionette	INFO	Stopped listening on port 41255
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1591801203753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTJmqEc"
+*** You are running in headless mode.
+1591801204328	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591801204434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591801204434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591801204434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591801204434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591801206469	Marionette	INFO	Listening on port 41349
+1591801206564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591801269205	Marionette	INFO	Stopped listening on port 41349
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370126,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1591801737682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMBQlOH"
+*** You are running in headless mode.
+1591801738270	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591801738383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591801738383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591801738383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591801738383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591801740609	Marionette	INFO	Listening on port 38853
+1591801740692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591801856929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebNa5B0"
+*** You are running in headless mode.
+1591801857514	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591801857623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591801857623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591801857623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591801857624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591801859782	Marionette	INFO	Listening on port 40617
+1591801859839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591802007990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelGimBw"
+*** You are running in headless mode.
+1591802008569	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591802008669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591802008669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591802008669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591802008669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591802010902	Marionette	INFO	Listening on port 33067
+1591802010999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591802130033	Marionette	INFO	Stopped listening on port 33067
+[2020-06-10T15:15:30Z ERROR audioipc_server::server] Unexpected message Err(Custom { kind: BrokenPipe, error: "broken pipe" }) during data_callback
+1591860503235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMkoNZ"
+*** You are running in headless mode.
+1591860504470	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591860504631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591860504632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591860504632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591860504632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591860508391	Marionette	INFO	Listening on port 40167
+1591860508716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591860617465	Marionette	INFO	Stopped listening on port 40167
+1591861052263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileii6gm9"
+*** You are running in headless mode.
+1591861053047	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591861053231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591861053231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591861053231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591861053231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591861056545	Marionette	INFO	Listening on port 44363
+1591861056581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflT7LHX2/www-embed-player.js, line 355: NS_ERROR_FAILURE: 
+1591861165348	Marionette	INFO	Stopped listening on port 44363
+1591861353492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEwd4X1"
+*** You are running in headless mode.
+1591861354264	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591861354430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591861354431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591861354431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591861354431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591861357774	Marionette	INFO	Listening on port 35419
+1591861357821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+1591861428098	Marionette	INFO	Stopped listening on port 35419
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370126,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1591861754141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletWbQIF"
+*** You are running in headless mode.
+1591861754841	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591861754993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591861754994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591861754994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591861754994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591861757899	Marionette	INFO	Listening on port 36317
+1591861757957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591861947444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6hZFwD"
+*** You are running in headless mode.
+1591861948164	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591861948332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591861948332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591861948332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591861948333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591861951181	Marionette	INFO	Listening on port 45627
+1591861951259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591862006438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8L7tzP"
+*** You are running in headless mode.
+1591862007177	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591862007338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591862007339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591862007339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591862007339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591862010238	Marionette	INFO	Listening on port 35717
+1591862010265	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591862031162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilernDny6"
+*** You are running in headless mode.
+1591862031892	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591862032067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591862032067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591862032068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591862032068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591862034950	Marionette	INFO	Listening on port 40399
+1591862034977	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591862088186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyxE17r"
+*** You are running in headless mode.
+1591862088890	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591862089049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591862089049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591862089050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591862089050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591862091832	Marionette	INFO	Listening on port 34847
+1591862091902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591862241870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOk3zr8"
+*** You are running in headless mode.
+1591862242594	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591862242754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591862242754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591862242755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591862242755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591862245498	Marionette	INFO	Listening on port 44831
+1591862245601	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591862754285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAWX3kn"
+*** You are running in headless mode.
+1591862754986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591862755144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591862755144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591862755145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591862755145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591862757849	Marionette	INFO	Listening on port 37107
+1591862757903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591862839672	Marionette	INFO	Stopped listening on port 37107
+[2020-06-11T08:07:19Z ERROR audioipc_server::server] Unexpected message Err(Custom { kind: BrokenPipe, error: "broken pipe" }) during data_callback
+1591862954883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemXeoT1"
+*** You are running in headless mode.
+1591862955594	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591862955755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591862955756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591862955756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591862955756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591862958649	Marionette	INFO	Listening on port 35671
+1591862958698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591863085913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYdD8HV"
+*** You are running in headless mode.
+1591863086612	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591863086766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591863086766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591863086766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591863086767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591863089659	Marionette	INFO	Listening on port 33565
+1591863089728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591863204591	Marionette	INFO	Stopped listening on port 33565
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1591863208529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenICHUi"
+*** You are running in headless mode.
+1591863209270	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591863209434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591863209434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591863209435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591863209435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591863212476	Marionette	INFO	Listening on port 33737
+1591863212544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591863383365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemicHpM"
+*** You are running in headless mode.
+1591863384060	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591863384219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591863384220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591863384220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591863384220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591863386953	Marionette	INFO	Listening on port 43583
+1591863386979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591863540941	Marionette	INFO	Stopped listening on port 43583
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1591863827637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBshofd"
+*** You are running in headless mode.
+1591863828374	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591863828553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591863828553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591863828554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591863828554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591863831362	Marionette	INFO	Listening on port 45373
+1591863831453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591863961644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiNZFVw"
+*** You are running in headless mode.
+1591863962361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591863962521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591863962521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591863962522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591863962522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591863965301	Marionette	INFO	Listening on port 43063
+1591863965360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591864103581	Marionette	INFO	Stopped listening on port 43063
+[2020-06-11T08:28:23Z ERROR audioipc_server::server] Unexpected message Err(Custom { kind: BrokenPipe, error: "broken pipe" }) during data_callback
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1591864387011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehS1OV2"
+*** You are running in headless mode.
+1591864387878	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591864388064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591864388064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591864388064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591864388064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591864391683	Marionette	INFO	Listening on port 35857
+1591864391742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591864562422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew388E9"
+*** You are running in headless mode.
+1591864563306	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591864563481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591864563481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591864563481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591864563481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591864566595	Marionette	INFO	Listening on port 44611
+1591864566647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591864689923	Marionette	INFO	Stopped listening on port 44611
+1591864739557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2wBBXV"
+*** You are running in headless mode.
+1591864740300	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591864740464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591864740465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591864740465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591864740465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591864780801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileELT6KI"
+*** You are running in headless mode.
+1591864781533	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591864781702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591864781703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591864781703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591864781703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591864784388	Marionette	INFO	Listening on port 44313
+1591864784415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591864897375	Marionette	INFO	Stopped listening on port 44313
+1591865152025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehsmNKG"
+*** You are running in headless mode.
+1591865152740	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591865152904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591865152904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591865152905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591865152905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591865155626	Marionette	INFO	Listening on port 38007
+1591865155650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591865313906	Marionette	INFO	Stopped listening on port 38007
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1591865373948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN9zbVa"
+*** You are running in headless mode.
+1591865374665	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591865374820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591865374821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591865374821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591865374821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591865377825	Marionette	INFO	Listening on port 45803
+1591865377878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591865455653	Marionette	INFO	Stopped listening on port 45803
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1591866645967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8obzJn"
+*** You are running in headless mode.
+1591866647128	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591866647292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591866647292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591866647292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591866647292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591866650889	Marionette	INFO	Listening on port 33731
+1591866650986	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591867032960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileStnPU2"
+*** You are running in headless mode.
+1591867033677	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591867033841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591867033842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591867033842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591867033842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591867036811	Marionette	INFO	Listening on port 35837
+1591867036878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591867122268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBOL3rW"
+*** You are running in headless mode.
+1591867122999	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591867123161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591867123161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591867123161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591867123162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591867126272	Marionette	INFO	Listening on port 36921
+1591867126293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591867464608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6mqi7R"
+*** You are running in headless mode.
+1591867465361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591867465539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591867465539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591867465540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591867465540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591867468486	Marionette	INFO	Listening on port 34055
+1591867468525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591867571139	Marionette	INFO	Stopped listening on port 34055
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370126,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[2020-06-11T09:26:11Z ERROR audioipc_server::server] Unexpected message Err(Custom { kind: BrokenPipe, error: "broken pipe" }) during data_callback
+1591868711745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY7OH9A"
+*** You are running in headless mode.
+1591868712570	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591868712740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591868712740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591868712741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591868712741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591868715594	Marionette	INFO	Listening on port 35507
+1591868715661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591868969623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6fPhE4"
+*** You are running in headless mode.
+1591868970335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591868970495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591868970495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591868970496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591868970496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591868973574	Marionette	INFO	Listening on port 40895
+1591868973640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591869080823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6wqrqc"
+*** You are running in headless mode.
+1591869081634	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591869081796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591869081796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591869081796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591869081796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591869084521	Marionette	INFO	Listening on port 38103
+1591869084563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591869339313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2ZZVxm"
+*** You are running in headless mode.
+1591869340043	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591869340207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591869340207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591869340208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591869340208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591869343107	Marionette	INFO	Listening on port 37245
+1591869343132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591869462913	Marionette	INFO	Stopped listening on port 37245
+1591869534502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3gv0Uk"
+*** You are running in headless mode.
+1591869535258	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591869535428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591869535428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591869535428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591869535428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591869538309	Marionette	INFO	Listening on port 44049
+1591869538331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://a.vdo.ai/core/dependencies_hbv4/vdo.min.js, line 14: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591869867299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Gkglu"
+*** You are running in headless mode.
+1591869868146	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591869868307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591869868307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591869868308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591869868308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591869871968	Marionette	INFO	Listening on port 45945
+1591869872017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+1591870018756	Marionette	INFO	Stopped listening on port 45945
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1591870319148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileio3LBT"
+*** You are running in headless mode.
+1591870319988	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591870320149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591870320150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591870320150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591870320150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591870323301	Marionette	INFO	Listening on port 41715
+1591870323364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d2c7ipcroan06u.cloudfront.net/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.7.2, line 6: TypeError: fbq.getState is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
